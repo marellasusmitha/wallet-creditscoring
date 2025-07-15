@@ -1,4 +1,4 @@
-# Wallet Score Analysis – Zeru Assignment
+# Wallet CreditScoring– Zeru Assignment
 
 After generating the credit scores for wallets, I plotted the score distribution using a histogram with bins from 0 to 1000 (in 100-point intervals). The output graph showed that the majority of the wallets fall under the 0–100 score range.
 
