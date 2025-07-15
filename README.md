@@ -43,4 +43,5 @@ You can run the code in Google Colab or Jupyter Notebook.
 ## ✅ Conclusion
 
 This project helped me understand how to analyze blockchain transactions and apply machine learning to assign trust scores to users. The scoring system can help DeFi platforms offer credit-based lending without relying on heavy collateral.
-This project was my first hands-on experience working with blockchain-based data, and I really enjoyed it. I'm new to DeFi and blockchain concepts, but through this assignment, I got a better understanding of how wallet transactions work and how machine learning can be used to solve real-world problems like credit scoring.I'm genuinely interested in learning more about blockchain and DeFi, and I see this opportunity as a great starting point in that direction. Thank you for the chance to work on this!
+
+**This project was my first hands-on experience working with blockchain-based data, and I really enjoyed it. I'm new to DeFi and blockchain concepts, but through this assignment, I got a better understanding of how wallet transactions work and how machine learning can be used to solve real-world problems like credit scoring.I'm genuinely interested in learning more about blockchain and DeFi, and I see this opportunity as a great starting point in that direction. Thank you for the chance to work on this!
