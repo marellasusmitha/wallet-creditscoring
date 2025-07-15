@@ -4,7 +4,8 @@ After generating the credit scores for wallets, I plotted the score distribution
 
 ## 🔹 Score Distribution Observation
 
-![Score Histogram](Screenshot 2025-07-15 192058.png)
+![Score Histogram](<img width="860" height="621" alt="Screenshot 2025-07-15 192058" src="https://github.com/user-attachments/assets/c27987f6-52a6-4ab9-b6a6-e35e78ef8c28" />
+)
 
 - Around **3500+ wallets** are in the **0–100** range.
 - Almost no wallets scored above 200.
@@ -31,7 +32,6 @@ This suggests that most wallets either had:
 - Very rare in this dataset, possibly due to how features or scoring were weighted.
 
 ## 📈Takeaways
-
 - Most wallets on-chain are not behaving in a highly responsible way, which is a common challenge in DeFi.
 - It highlights the need for robust scoring models like this to separate trusted users from risky ones.
 - This model worked well in identifying and penalizing risky behaviors.
